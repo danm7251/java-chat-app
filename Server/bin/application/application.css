@@ -1,0 +1,9 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.pink{
+	-fx-background-color:"#FF3755";
+}
+
+.white{
+	-fx-background-color:"#F6F6F6";
+}
